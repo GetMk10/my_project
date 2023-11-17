@@ -1,6 +1,4 @@
 Hello,there
-<<<<<<< HEAD
 my name is hosseihn malekpoor
-=======
 salam 
->>>>>>> 718de68eafbc1f9d3e1148049a6cab69928f214d
+
