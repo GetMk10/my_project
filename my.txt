@@ -4,4 +4,8 @@ salam
 salam 
 Hello, there
 80c6f74cbc09b9c69367b6a5e00b9626ab8a2b4b
+<<<<<<< HEAD
 Helloo
+=======
+mio mio
+>>>>>>> 615445001748b86dcc3cde66ec0c3fcdf2596438
